@@ -1,0 +1,99 @@
+2026-06-07 00:00:43 | INFO     | main | Eye Health Desktop Agent starting…
+2026-06-07 00:01:11 | INFO     | circadian | Circadian night — blue light -60%
+2026-06-07 00:01:16 | INFO     | main | Qt event loop running.
+2026-06-07 00:01:24 | INFO     | vision_engine | Vision engine started.
+2026-06-07 00:01:24 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:01:26 | INFO     | notifications | [BLINK] 👁  Low blink rate! Close your eyes gently for 2 seconds.
+2026-06-07 00:01:26 | INFO     | notifications | [DISTANCE] 📏  You're 47 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:06:04 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 00:06:24 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:07:19 | INFO     | notifications | [DISTANCE] 📏  You're 46 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:11:05 | INFO     | notifications | [AMBIENT] ☀️  Very bright room — consider raising screen brightness.
+2026-06-07 00:11:25 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:12:58 | INFO     | pupillometry | PupillometryEngine init — calib_frames=60  alpha=0.15  dil_high=0.115  dil_low=0.080
+2026-06-07 00:13:14 | INFO     | pupillometry | PupillometryEngine init — calib_frames=60  alpha=0.15  dil_high=0.115  dil_low=0.080
+2026-06-07 00:13:49 | INFO     | notifications | [DISTANCE] 📏  You're 49 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:15:42 | INFO     | main | Eye Health Desktop Agent starting…
+2026-06-07 00:15:43 | INFO     | brightness_ctrl | BrightnessController ready — current=70%  range=[10-100]%
+2026-06-07 00:15:43 | INFO     | pupillometry | PupillometryEngine init — calib_frames=60  alpha=0.15  dil_high=0.115  dil_low=0.080
+2026-06-07 00:15:43 | INFO     | vision_engine | Pupillometry engine active.
+2026-06-07 00:15:43 | INFO     | circadian | Circadian night — blue light -60%
+2026-06-07 00:15:44 | INFO     | main | Qt event loop running.
+2026-06-07 00:15:45 | INFO     | notifications | [AMBIENT] ☀️  Very bright room — consider raising screen brightness.
+2026-06-07 00:15:46 | INFO     | vision_engine | Vision engine started.
+2026-06-07 00:15:46 | INFO     | notifications | [DISTANCE] 📏  You're 47 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:15:46 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:15:48 | INFO     | pupillometry | Pupillometry calibrated — baseline ratio=0.0908
+2026-06-07 00:15:48 | INFO     | notifications | [BLINK] 👁  Low blink rate! Close your eyes gently for 2 seconds.
+2026-06-07 00:16:05 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 00:16:22 | INFO     | brightness_ctrl | Auto brightness mode enabled.
+2026-06-07 00:16:26 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:18:50 | INFO     | notifications | [DISTANCE] 📏  You're 50 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:20:46 | INFO     | notifications | [AMBIENT] ☀️  Very bright room — consider raising screen brightness.
+2026-06-07 00:20:47 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:20:48 | INFO     | notifications | [DISTANCE] 📏  You're 49 cm from the screen — move back to at least 40 cm.
+2026-06-07 00:21:05 | INFO     | notifications | [BREAK] ⏱  20-20-20 Rule: Look 20 feet away for 20 seconds!
+2026-06-07 00:21:06 | INFO     | notifications | [AMBIENT] ☀️  Very bright room — consider raising screen brightness.
+2026-06-07 00:21:26 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:25:47 | INFO     | notifications | [AMBIENT] ☀️  Very bright room — consider raising screen brightness.
+2026-06-07 00:25:48 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 00:25:49 | INFO     | notifications | [DISTANCE] 📏  You're 47 cm from the screen — move back to at least 40 cm.
+2026-06-07 08:34:33 | INFO     | main | Eye Health Desktop Agent starting…
+2026-06-07 08:34:35 | INFO     | brightness_ctrl | BrightnessController ready — current=70%  range=[10-100]%
+2026-06-07 08:34:35 | INFO     | main | Qt event loop running.
+2026-06-07 08:34:35 | INFO     | pupillometry | PupillometryEngine init — calib_frames=60  alpha=0.15  dil_high=0.115  dil_low=0.080
+2026-06-07 08:34:35 | INFO     | vision_engine | Pupillometry engine active.
+2026-06-07 08:34:36 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 08:34:36 | INFO     | vision_engine | Vision engine started.
+2026-06-07 08:34:37 | INFO     | notifications | [BLINK] 👁  Low blink rate! Close your eyes gently for 2 seconds.
+2026-06-07 08:34:37 | INFO     | notifications | [DISTANCE] 📏  You're 47 cm from the screen — move back to at least 40 cm.
+2026-06-07 08:34:37 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 08:34:38 | INFO     | pupillometry | Pupillometry calibrated — baseline ratio=0.0884
+2026-06-07 08:35:51 | INFO     | brightness_ctrl | Auto brightness mode enabled.
+2026-06-07 08:35:53 | INFO     | brightness_ctrl | Auto brightness mode enabled.
+2026-06-07 08:39:37 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 08:39:38 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 08:59:13 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 08:59:13 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 08:59:13 | INFO     | notifications | [BREAK] ⏱  20-20-20 Rule: Look 20 feet away for 20 seconds!
+2026-06-07 09:15:27 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 09:15:27 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 09:32:59 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 09:32:59 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 09:32:59 | INFO     | notifications | [BREAK] ⏱  20-20-20 Rule: Look 20 feet away for 20 seconds!
+2026-06-07 09:50:40 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 09:50:40 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 09:50:40 | INFO     | notifications | [BREAK] 🛑  Time for a 5-minute break — stand up and stretch!
+2026-06-07 09:56:18 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 09:56:18 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 09:56:18 | INFO     | notifications | [BREAK] ⏱  20-20-20 Rule: Look 20 feet away for 20 seconds!
+2026-06-07 09:56:20 | INFO     | notifications | [BLINK] 👁  Low blink rate! Close your eyes gently for 2 seconds.
+2026-06-07 09:56:21 | INFO     | notifications | [DISTANCE] 📏  You're 49 cm from the screen — move back to at least 40 cm.
+2026-06-07 09:56:27 | INFO     | main | Eye Health Desktop Agent starting…
+2026-06-07 09:56:28 | INFO     | brightness_ctrl | BrightnessController ready — current=70%  range=[10-100]%
+2026-06-07 09:56:28 | INFO     | pupillometry | PupillometryEngine init — calib_frames=60  alpha=0.15  dil_high=0.115  dil_low=0.080
+2026-06-07 09:56:28 | INFO     | vision_engine | Pupillometry engine active.
+2026-06-07 09:56:28 | INFO     | main | Qt event loop running.
+2026-06-07 09:56:29 | INFO     | vision_engine | Vision engine started.
+2026-06-07 09:56:30 | INFO     | notifications | [DISTANCE] 📏  You're 46 cm from the screen — move back to at least 40 cm.
+2026-06-07 09:56:30 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 09:56:30 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 09:56:31 | INFO     | pupillometry | Pupillometry calibrated — baseline ratio=0.0919
+2026-06-07 09:56:41 | INFO     | notifications | [BLINK] 👁  Low blink rate! Close your eyes gently for 2 seconds.
+2026-06-07 09:58:32 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 09:58:32 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0774 < threshold=0.080)  (step=15)
+2026-06-07 09:59:21 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 09:59:21 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0782 < threshold=0.080)  (step=15)
+2026-06-07 09:59:37 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 09:59:37 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0752 < threshold=0.080)  (step=15)
+2026-06-07 09:59:53 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 09:59:53 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0793 < threshold=0.080)  (step=15)
+2026-06-07 10:00:09 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 10:00:09 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0769 < threshold=0.080)  (step=15)
+2026-06-07 10:00:25 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 10:00:25 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0768 < threshold=0.080)  (step=15)
+2026-06-07 10:01:05 | WARNING  | brightness_ctrl | Failed to set brightness to 55%: name '_OS_MODULE' is not defined
+2026-06-07 10:01:05 | INFO     | brightness_ctrl | Brightness 70% → 55%  |  pupil constricted (ratio=0.0770 < threshold=0.080)  (step=15)
+2026-06-07 10:01:31 | INFO     | notifications | [POSTURE] 🧍  Posture alert! Sit back and relax your shoulders.
+2026-06-07 10:01:31 | INFO     | notifications | [AMBIENT] 💡  Room is too dark — increase lighting or lower screen brightness.
+2026-06-07 10:01:32 | INFO     | notifications | [DISTANCE] 📏  You're 50 cm from the screen — move back to at least 40 cm.

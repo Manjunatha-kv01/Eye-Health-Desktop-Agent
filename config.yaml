@@ -1,0 +1,88 @@
+camera:
+  device_index: 0
+  resolution_width: 640
+  resolution_height: 480
+  fps: 30
+
+blink:
+  normal_rate_per_minute: 15
+  low_rate_threshold: 8
+  ear_threshold: 0.21
+  ear_consecutive_frames: 3
+
+distance:
+  min_safe_cm: 40
+  warning_cm: 50
+  focal_length_px: 500
+  avg_face_width_cm: 14.0
+  forward_head_threshold: 0.15
+
+posture:
+  forward_head_threshold: 0.15
+  check_interval_seconds: 30
+
+breaks:
+  work_interval_minutes: 20
+  break_duration_seconds: 20
+  long_break_interval_minutes: 60
+  long_break_duration_minutes: 5
+  mandatory_lock: false
+
+ambient:
+  check_interval_seconds: 300
+  dim_threshold: 50
+  bright_threshold: 500
+
+pupillometry:
+  enabled: true
+  # Iris landmark indices (MediaPipe refined FaceMesh)
+  # Left iris:  468-472  |  Right iris: 473-477
+  calibration_frames: 60        # frames to collect baseline pupil ratio
+  smoothing_alpha: 0.15         # EMA smoothing (lower = smoother, slower)
+  # Pupil ratio thresholds (ratio = iris_diameter / face_width)
+  # A larger ratio means MORE dilated (dim room)
+  # A smaller ratio means MORE constricted (bright room)
+  dilation_high: 0.115          # above this → room is dim → raise screen brightness
+  dilation_low: 0.080           # below this → room is bright → lower screen brightness
+  # Brightness adjustment
+  brightness_min: 10            # never go below 10%
+  brightness_max: 100           # never exceed 100%
+  brightness_step: 5            # max % change per adjustment cycle
+  adjust_interval_seconds: 8    # minimum seconds between brightness changes
+  # Gaze zone detection (normalised screen coords 0-1)
+  gaze_zones:
+    top_threshold: 0.35         # looking above this Y → "Top"
+    bottom_threshold: 0.65      # looking below this Y → "Bottom"
+
+circadian:
+  evening_start_hour: 18
+  night_start_hour: 21
+  blue_light_reduction_evening: 30
+  blue_light_reduction_night: 60
+
+scoring:
+  weights:
+    blink_rate: 0.25
+    session_length: 0.20
+    distance: 0.20
+    break_compliance: 0.20
+    ambient_light: 0.15
+
+notifications:
+  enabled: true
+  sound: true
+  min_interval_seconds: 300
+
+database:
+  path: "data/eye_health.db"
+
+logging:
+  level: "INFO"
+  file: "logs/eye_agent.log"
+  max_bytes: 5242880
+  backup_count: 3
+
+ui:
+  theme: "dark"
+  tray_icon: "assets/icons/tray_icon.png"
+  refresh_interval_ms: 1000
