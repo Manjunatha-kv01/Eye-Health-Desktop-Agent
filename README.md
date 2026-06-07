@@ -560,4 +560,3 @@ MIT — free to use, modify, and distribute.
 ---
 
 *Built for developers, students, office workers, and gamers who spend long hours in front of a screen.*
-*The "GitHub Copilot for Eye Health."*
