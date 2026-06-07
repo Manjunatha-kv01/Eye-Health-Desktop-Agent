@@ -1,5 +1,8 @@
 # 👁️ Eye Health Desktop Agent
 
+![image alt](https://github.com/Manjunatha-kv01/Eye-Health-Desktop-Agent/blob/136454b59c59dd4dd0a7c69c536f437dae4ef645/WhatsApp%20Image%202026-06-07%20at%2017.17.17.jpeg)
+
+
 > An open-source desktop agent that runs silently in the background and actively protects your eyes while you work — powered by Python, OpenCV, MediaPipe, and PyQt6.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
