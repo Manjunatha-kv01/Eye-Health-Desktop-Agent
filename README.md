@@ -152,7 +152,7 @@ eye-health-agent/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/your-username/eye-health-agent.git
+git clone https://github.com/Manjunatha-kv01/eye-health-agent.git
 cd eye-health-agent
 ```
 
